@@ -1,0 +1,59 @@
+body{
+	width: 35em;
+	margin: auto;
+}
+
+/**********************************
+ * Navigation Bar
+ **********************************/
+ul.navMenu{
+	list-style-type: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+li.navItem{
+	display: inline;
+	padding: 1em;
+}
+ul.navMenu a.navLink{
+	text-decoration: none;
+	color: black;
+}
+
+/**********************************
+ * Components
+ **********************************/
+div.header{
+	margin-bottom: 8em;
+	text-align: center;
+}
+
+h4.hireMiles{
+	text-align: center;
+	margin:3em;
+}
+
+a.section{
+	display: block;
+	margin-top: 5em;
+}
+
+/**********************************
+ * Section
+ **********************************/
+h3.sectionTitle{
+	text-align: center;
+}
+
+/*div.section img{
+	display: block;
+	margin: auto;
+}*/
+a.iconic{
+	font-size: 50px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
