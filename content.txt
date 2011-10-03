@@ -1,0 +1,45 @@
+* Values/Beliefs... say something about who you are, what you value, things that really give people a glimpse into how you think, what you're energized by, and how you make decisions. These are really important to small teams as they reveal whether or not you'll gel. The best companies to work for are the ones that care about this stuff. The one's that don't aren't interested in team-building and strong culture.
+
+Technology is cool, but at the end of the day, every product I contribute to is for a person. People, and adding value to their lives, is what motivates me. I love working on a close-knit, small, creative team where the collaboration level is through the roof. 
+
+- Personable
+- Honesty
+- Simple
+- Collaboration
+- Freedom
+- Innovation
+- Growth
+
+My favorite work experience: (Getting Liam to teach others)
+
+My favorite tools to work with include Mac OS X, TextMate, Kod, XCode, GitHub, Google Chrome, Balsamiq Mockups, Skype, Coda, and Heroku.
+
+* Skills... say something about what you've produced. If you're involved in any social programming communities point that out. If you've contributed to any open source initiatives share that. Point out where you're accounts are specifically where you helped out. Creative projects like Startup Weekend the Game are also great on a resume. Provide links to the tangible things you've made. Even consider providing samples of code you've written. Code that reflects your value. This is all about walking the talk. If you're green and don't have much ask the company your applying to, to throw a small application project at you. Maybe in the 8-10 hour window of work. This is pretty common and is going to be a huge barrier to entry for candidates that are only looking for a paycheck. Serious candidates will love a little coding challenge. They'll see it as a skill sharpener, and another feather to put in their application hat. It all ads up to... Look I've got skills!
+
+C, C++, HTML5, jQuery, CSS, Networking, Security.
+Steadily learning Java, iOS, and mobile frameworks like Sencha Touch and jQuery Mobile.
+
+I've developed custom plugins for the open source project Wireshark at Sandia National Labs. I had to learn how a large established project works, and then figure out to write plugins that the operations security team at Sandia needed. The other person working with me on this project was early on in his programming education, so I did a lot of the coding for the project. We had a leader who had a full plate of work on his own, so he only had time to check in with us once a week or so. We were given all the resources we needed, and enjoyed the freedom of choosing some of the direction of the project. My choice was to write a plugin making tutorial for the Sandia operations security team membmers so that should they need to customize their plugins or write new ones, they would have the tools and education to do so.
+
+I've created a mobile app for Android using jQTouch.
+I also have several projects that are still "in progress", including a Hacker News reader with Sencha Touch, and an iOS app for caregivers looking to learn more activities they can adapt to their clients.
+
+* Education... as is typical in resumes list your educational background. However, take a less generic approach. Write a little about how each educational experience influenced you as a person, rather than just another tool in your toolbox. Every tool has a purpose, share that purpose rather than just a check list of what's in your toolbox.
+
+
+BS in Computer Science from UNO - 
+BS in Information Assurance from UNO -
+
+
+* Story... writing a little life story and talking about critical shaping influences is a great way to show you're not just another person in line. You've got a soul and it feel and believes things. This is one of the biggest overlooked aspects of resume writing. Funny thing is, people make decisions on what they believe more than what you can do. Your story should bring out clear points. Each paragraph should highlight a time in your life and what you learned. It's also helpful to list out books you've read. This also will reveal your interests. Don't forget to talk about what you like to do for fun. :-)
+
+I've read and recommend:
+
+The Long Run by Matt Long
+1776 by David McCollough
+Rework by Jason Fried and David Heinemeier Hansson
+
+I'm currently reading:
+
+The Four Hour Workweek by 
+
