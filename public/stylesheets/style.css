@@ -1,6 +1,15 @@
+/*html{
+	background-image: -webkit-gradient(radial, 50% 59,900,50% 0,140, from(#326FD9), to(#CAD4EB));
+	background-image: -moz-radial-gradient(50% 0% 0deg,circle farthest-corner,  #326FD9,  #CAD4EB);
+	background-attachment:fixed;
+	background-color: #326FD9;
+}*/
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /*background-image: url('/images/bg-crosshatch.png') repeat;
+  background-attachment:fixed;*/
 }
 
 a {
