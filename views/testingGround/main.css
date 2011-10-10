@@ -1,16 +1,13 @@
 body{
 	background-color: white;
-	width: 35em;
 	margin: auto;
-	background-image: url('bg.png');
+	background-image: url('bg-tile.jpg');
 	color:#DBDBAD;
-	/*background: #1335A8;
-	background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#5169B5));
-	background: -moz-linear-gradient(top,  #1335A8,  #5169B5);*/
 }
 
-.wrapper{
-	/*background-image: url('bg-crosshatch.png');*/
+a{
+	text-decoration: none;
+	color:inherit;
 }
 
 /**********************************
@@ -18,10 +15,12 @@ body{
  **********************************/
 ul.navMenu{
 	list-style-type: none;
-	float: left;
-	margin: 0;
-	padding: 0;
-	width: 100%;
+	background-image: url('ribbon.png');
+	margin:auto;
+	margin-top:15px;
+	padding:0;
+	width: 884px;
+	height:80px;
 }
 li.navItem{
 	display: inline;
@@ -29,8 +28,12 @@ li.navItem{
 }
 ul.navMenu a.navLink{
 	text-decoration: none;
-	color: #DBDBAD;
+	color: red;
 	font-family: 'Verdana', sans-serif;
+	margin: auto;
+}
+img.ribbon{
+	margin:auto;
 }
 
 /**********************************
@@ -77,6 +80,9 @@ h3.sectionTitle{
 }
 p{
 	font-family: 'Verdana', sans-serif;
+	width:45em;
+	margin:auto;
+	margin-bottom: 15px;
 }
 a.iconic{
 	font-size: 50px;

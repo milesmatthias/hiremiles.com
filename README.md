@@ -10,3 +10,10 @@ Technical Details
 hiremiles.com is hosted on Heroku. This is the first time I've used Heroku, so it's kind of an experiment.
 
 The site is written in Node, using Express and Jade. I use TextMate (mainly, also Kod and Coda) and GitHub for Mac.
+
+
+Issues Left
+---------------
+- Correct navigation bar
+- Can't change colors on iconics
+- Fonts?
