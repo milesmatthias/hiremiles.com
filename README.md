@@ -15,5 +15,11 @@ The site is written in Node, using Express and Jade. I use TextMate (mainly, als
 Issues Left
 ---------------
 - Correct navigation bar
-- Can't change colors on iconics
 - Fonts?
+- Correct IDs vs classes
+
+Future Improvements
+---------------------
+- Organizing text better so it's more readable
+- Cooler transitions
+- Normalize css (combine rules when able to)

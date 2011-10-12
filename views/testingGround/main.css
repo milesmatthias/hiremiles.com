@@ -32,9 +32,6 @@ ul.navMenu a.navLink{
 	font-family: 'Verdana', sans-serif;
 	margin: auto;
 }
-img.ribbon{
-	margin:auto;
-}
 
 /**********************************
  * Components
@@ -50,16 +47,30 @@ div.header{
 	text-align: center;
 }
 
+img.titleHeader{
+	margin-top: 20px;
+}
+
+img.hireMilesButton{
+	display:block;
+	margin:auto;
+}
+
+img.hireMilesButtonBottom{
+	display:block;
+	margin:auto;
+}
+
 h4.hireMiles{
 	text-align: center;
 	font-family: sans-serif;
-	font-size: 20px;
+	font-size: 40px;
 	color: #ead9ac;
 	margin:auto;
-	border-radius: 65px;
+	border-radius: 165px;
 	background: #a3321e;
-	width:100px;
-	height:100px;
+	width:180px;
+	height:180px;
 }
 
 h4.hireMiles:hover{
@@ -77,17 +88,43 @@ a.section{
 h3.sectionTitle{
 	text-align: center;
 	font-family: 'Maven Pro', sans-serif;
+	font-size: 48px;
 }
 p{
-	font-family: 'Verdana', sans-serif;
-	width:45em;
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: x-large;
+	width:40em;
 	margin:auto;
 	margin-bottom: 15px;
 }
 a.iconic{
-	font-size: 50px;
+	font-size: 150px;
 	text-align: center;
 	margin: auto;
 	display: block;
-	color: #ead9ac;
+	color: red;
+}
+a#tools{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}
+a#books{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}
+a#fbplay{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(sprite-icons.png) 0 0;
+	margin-bottom: 35px;
 }
