@@ -1,0 +1,118 @@
+body{
+	background-color: white;
+	margin: auto;
+	background-image: url('/images/bg-tile.jpg');
+	color:#DBDBAD;
+}
+
+a{
+	text-decoration: none;
+	color:inherit;
+}
+
+/**********************************
+ * Navigation Bar
+ **********************************/
+div#navMenuWrap{
+	background-image: url('/images/ribbon.png');
+	width: 884px;
+	height:80px;
+	margin:0 auto;
+	margin-top: 35px;
+}
+ul.navMenu{
+	margin:0;
+	padding:0;
+	padding-top: 15px;
+	list-style-type: none;
+}
+li.navItem{
+	display: inline;
+	position: relative;
+	padding: 1.25em;
+}
+ul.navMenu a.navLink{
+	text-decoration: none;
+	color: #A81120;
+	font-family: 'BookAntiquaBold', sans-serif;
+	font-size: x-large;
+	text-shadow: #9C9C9C 2px 2px 0px;
+}
+ul.navMenu a.navLink:hover{
+	color: #F06305;
+}
+
+/**********************************
+ * Components
+ **********************************/
+div.header{
+	margin-bottom: 8em;
+	text-align: center;
+}
+
+img.titleHeader{
+	margin-top: 20px;
+}
+
+img.hireMilesButton{
+	display:block;
+	margin:auto;
+}
+
+img.hireMilesButtonBottom{
+	display:block;
+	margin:auto;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+
+a.section{
+	display: block;
+	margin-top: 5em;
+}
+
+span.amp{
+	font-family: "BookAntiquaBoldItalic";
+}
+
+/**********************************
+ * Section
+ **********************************/
+h3.sectionTitle{
+	text-align: center;
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: 48px;
+	text-shadow: #1A1919 3px 3px 0px;
+	color: #E8D44F;
+}
+p{
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: x-large;
+	width:40em;
+	margin:auto;
+	margin-bottom: 15px;
+}
+a#tools{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}
+a#books{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}
+a#fbplay{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}

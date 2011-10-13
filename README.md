@@ -14,9 +14,9 @@ The site is written in Node, using Express and Jade. I use TextMate (mainly, als
 
 Issues Left
 ---------------
-- Correct navigation bar
-- Fonts?
+- Spell check
 - Correct IDs vs classes
+- Run through Google's speed tester to look for improvements
 
 Future Improvements
 ---------------------
