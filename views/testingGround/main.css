@@ -13,24 +13,27 @@ a{
 /**********************************
  * Navigation Bar
  **********************************/
-ul.navMenu{
-	list-style-type: none;
+div#navMenuWrap{
 	background-image: url('ribbon.png');
-	margin:auto;
-	margin-top:15px;
-	padding:0;
 	width: 884px;
 	height:80px;
+	margin:0 auto;
+}
+ul.navMenu{
+	margin:0;
+	padding:0;
+	padding-top: 20px;
+	list-style-type: none;
 }
 li.navItem{
 	display: inline;
+	position: relative;
 	padding: 1em;
 }
 ul.navMenu a.navLink{
 	text-decoration: none;
 	color: red;
 	font-family: 'Verdana', sans-serif;
-	margin: auto;
 }
 
 /**********************************
