@@ -105,7 +105,7 @@ a#books{
 	margin: auto;
 	width:65px;
 	height:64px;
-	background: url(/images/sprite-icons.png) 0 0;
+	background: url(/images/sprite-icons.png) -1000px 0;
 	margin-bottom: 35px;
 }
 a#fbplay{
@@ -113,6 +113,6 @@ a#fbplay{
 	margin: auto;
 	width:65px;
 	height:64px;
-	background: url(/images/sprite-icons.png) 0 0;
+	background: url(/images/sprite-icons.png) -2000px 0;
 	margin-bottom: 35px;
 }

@@ -16,10 +16,10 @@ Issues Left
 ---------------
 - Spell check
 - Correct IDs vs classes
-- Run through Google's speed tester to look for improvements
 
 Future Improvements
 ---------------------
-- Organizing text better so it's more readable
 - Cooler transitions
 - Normalize css (combine rules when able to)
+- Compress fonts
+- More mobile features
