@@ -50,15 +50,35 @@ ul.navMenu a.navLink:hover{
 div.header{
 	margin-bottom: 8em;
 	text-align: center;
+	height:100%;
+}
+
+div.contact img{
+	padding:0.5em;
 }
 
 img.titleHeader{
 	margin-top: 20px;
 }
 
+div.pics{
+	width:100%;
+	display: block;
+}
 img.hireMilesButton{
 	display:block;
 	margin:auto;
+	margin-top: 20%;
+}
+img.miles{
+	display: block;
+	float:left;
+	height:300px;
+}
+
+img.contactIcon{
+	height:48px;
+	width: 48px;
 }
 
 img.hireMilesButtonBottom{
@@ -151,3 +171,13 @@ div.jobTitle{
 	color: #E8D44F;
 	font-size: 28px;
 }
+div.credits{
+	margin:auto;
+	text-align: center;
+}
+a.credit{
+	color:white;
+	padding:1em;
+	font-size: small;
+}
+
