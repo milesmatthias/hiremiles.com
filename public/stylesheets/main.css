@@ -1,13 +1,15 @@
 body{
 	background-color: white;
+	width:60em;
 	margin: auto;
 	background-image: url('/images/bg-tile.jpg');
-	color:#DBDBAD;
 }
 
 a{
 	text-decoration: none;
-	color:inherit;
+	color:#DB9512;
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: 24px;
 }
 
 /**********************************
@@ -75,22 +77,30 @@ span.amp{
 	font-family: "BookAntiquaBoldItalic";
 }
 
+span.byLine{
+	margin-left: 3em;
+	font-size: 20px;
+	font-style: italic;
+	font-family: 'PTSansRegular', sans-serif;
+	color:#DBDBAD;
+}
+
 /**********************************
  * Section
  **********************************/
-h3.sectionTitle{
+h2.sectionTitle{
 	text-align: center;
 	font-family: 'PTSansRegular', sans-serif;
-	font-size: 48px;
+	font-size: 52px;
 	text-shadow: #1A1919 3px 3px 0px;
 	color: #E8D44F;
 }
 p{
 	font-family: 'PTSansRegular', sans-serif;
-	font-size: x-large;
-	width:40em;
+	font-size: 24px;
 	margin:auto;
-	margin-bottom: 15px;
+	margin-bottom: 60px;
+	color:#DBDBAD;
 }
 a#tools{
 	display: block;
@@ -115,4 +125,29 @@ a#fbplay{
 	height:64px;
 	background: url(/images/sprite-icons.png) -2000px 0;
 	margin-bottom: 35px;
+}
+h3{
+	font-family: "BookAntiquaBold", sans-serif;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	color: #E8D44F;
+	font-size: 30px;
+}
+h4{
+	font-family: "BookAntiquaBoldItalic", sans-serif;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	color: #E8D44F;
+	font-size: 30px;
+}
+h5{
+	color: #841d02;
+	font-family: "BookAntiquaItalic", sans-serif;
+	margin:2px;
+	font-size: 28px;
+}
+div.jobTitle{
+	font-family: "BookAntiquaBoldItalic", sans-serif;
+	color: #E8D44F;
+	font-size: 28px;
 }
