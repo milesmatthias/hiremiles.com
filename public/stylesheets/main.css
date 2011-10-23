@@ -107,7 +107,6 @@ img.hireMilesButtonBottom{
 	display:block;
 	margin:auto;
 	margin-top: 80px;
-	margin-bottom: 50px;
 }
 
 a.section{
@@ -125,6 +124,10 @@ span.byLine{
 	font-style: italic;
 	font-family: 'PTSansRegular', sans-serif;
 	color:#DBDBAD;
+}
+
+a.section.skillsEducation h2.sectionTitle{
+	margin-top: 300px;
 }
 
 /**********************************
