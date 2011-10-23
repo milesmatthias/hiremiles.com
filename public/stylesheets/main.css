@@ -85,6 +85,7 @@ img.arrow{
 }
 img.hireMilesButton{
 	display:inline;
+	margin-bottom: 30px;
 }
 img.hireMilesButton:hover{
 	height:200px;
