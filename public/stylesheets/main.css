@@ -50,30 +50,51 @@ ul.navMenu a.navLink:hover{
 div.header{
 	margin-bottom: 8em;
 	text-align: center;
-	height:100%;
 }
 
 div.contact img{
 	padding:0.5em;
 }
-
+span.hey{
+	font-size: 30px;
+	color: #F06305;
+	padding-left:50px;
+}
 img.titleHeader{
 	margin-top: 20px;
 }
 
-div.pics{
-	width:100%;
-	display: block;
+div.intro{
+	padding-top: 30px;
+}
+div.intro p{
+	text-align: left;
+	margin-bottom: 30px;
+}
+div.intro h3{
+	margin-top:10px;
+}
+div.intro span.skills{
+	font-style: italic;
+	/*font-weight: bold;*/
+	text-shadow: #9C9C9C 2px 2px 5px;
+}
+img.arrow{
+	display:inline;
+	padding-top: 20px;
 }
 img.hireMilesButton{
-	display:block;
-	margin:auto;
-	margin-top: 20%;
+	display:inline;
+}
+img.hireMilesButton:hover{
+	height:200px;
+	width: 200px;
 }
 img.miles{
 	display: block;
 	float:left;
 	height:300px;
+	border-radius: 90px;
 }
 
 img.contactIcon{
