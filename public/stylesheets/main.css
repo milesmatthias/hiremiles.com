@@ -184,9 +184,11 @@ h4{
 	margin-bottom: 0px;
 	color: #E8D44F;
 	font-size: 30px;
+	text-shadow: #C9320A 3px 3px 3px;
 }
 h5{
-	color: #841d02;
+	color: #C9320A;
+	text-shadow: #E8D44F 0px 0px 1px;
 	font-family: "BookAntiquaItalic", sans-serif;
 	margin:2px;
 	font-size: 28px;
@@ -194,6 +196,7 @@ h5{
 div.jobTitle{
 	font-family: "BookAntiquaBoldItalic", sans-serif;
 	color: #E8D44F;
+	text-shadow: #C9320A 3px 3px 3px;
 	font-size: 28px;
 }
 div.credits{
