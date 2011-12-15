@@ -2,3 +2,5 @@ node_modules/*
 content_advice.txt
 
 public/.DS_Store
+
+npm-debug.log
