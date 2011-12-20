@@ -1,0 +1,62 @@
+!!! 5
+html
+  head
+    title Hire Miles!
+    link(rel='stylesheet', href='/stylesheets/fonts.css')
+    link(rel='stylesheet', href='/stylesheets/main.css')
+    script(src='//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js')
+    script(src="/javascript/jquery.localscroll.js")
+    script(src="/javascript/jquery.scrollTo.js")
+    script(src="/javascript/main.js")
+    script(type='text/javascript')
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-8001150-4']);
+        _gaq.push(['_setDomainName', '.hiremiles.com']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    //
+       easteregg.in - where you go to get your website's easter eggs 
+    script(type='text/javascript')
+      (function(window, undefined){
+      // http://threedubmedia.googlecode.com/files/jquery.event.drag-2.0.min.js
+      $.getScript("http://cdn.easteregg.in/triggers/drag-logo/jquery.event.drag-2.0.min.js", function() {
+      var started = false;
+      $("#logo").drag(function(ev, dd) {
+      $(this).css({
+      top: dd.offsetY,
+      left: dd.offsetX
+      });
+      }, {
+      // change this if you want a minimum distance for the logo to
+      // be dragged before the "start" event is fired below
+      distance: 0,
+      // set this to false if you do not have a relative container
+      relative: true
+      });
+      $("#logo").drag("start", function() {
+      if (!started) {
+      $.getScript("http://cdn.easteregg.in/outcomes/snowy/snow.min.js", function() {
+      var finishHim = function() {
+      var a = $("<link>");
+      a.attr({
+      rel: "stylesheet",
+      href: "http://cdn.easteregg.in/outcomes/snowy/snowy.css",
+      type: "text/css",
+      media: "screen"
+      });
+      $("head").append(a);
+      $("body").prepend('<div id="snow_flurry"><tt>snow flurry. <3</tt></div>')
+      }
+      finishHim();
+      });
+      }
+      started = true;
+      });
+      });
+      })(this);
+  body!= body
+

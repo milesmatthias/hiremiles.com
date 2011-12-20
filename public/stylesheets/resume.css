@@ -1,0 +1,216 @@
+body{
+	background-color: white;
+	/*width:60em;*/
+	margin: auto;
+	background-image: url('/images/bg-tile.jpg');
+}
+
+div.wrapper{
+	width:60em;
+	margin:auto;
+}
+
+a{
+	text-decoration: none;
+	color:#DB9512;
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: 24px;
+}
+
+/**********************************
+ * Navigation Bar
+ **********************************/
+div#navMenuWrap{
+	background-image: url('/images/ribbon.png');
+	width: 884px;
+	height:80px;
+	margin:0 auto;
+	margin-top: 35px;
+}
+ul.navMenu{
+	margin:0;
+	padding:0;
+	padding-top: 15px;
+	list-style-type: none;
+}
+li.navItem{
+	display: inline;
+	position: relative;
+	padding: 1.25em;
+}
+ul.navMenu a.navLink{
+	text-decoration: none;
+	color: #A81120;
+	font-family: 'BookAntiquaBold', sans-serif;
+	font-size: x-large;
+	text-shadow: #9C9C9C 2px 2px 0px;
+}
+ul.navMenu a.navLink:hover{
+	color: #F06305;
+}
+
+/**********************************
+ * Components
+ **********************************/
+div.header{
+	margin-bottom: 8em;
+	text-align: center;
+}
+
+div.contact img{
+	padding:0.5em;
+}
+span.hey{
+	font-size: 30px;
+	color: #F06305;
+	padding-left:50px;
+}
+img.titleHeader{
+	margin-top: 20px;
+}
+
+div.intro{
+	padding-top: 30px;
+}
+div.intro p{
+	text-align: left;
+	margin-bottom: 30px;
+}
+div.intro h3{
+	margin-top:10px;
+}
+div.intro span.skills{
+	font-style: italic;
+	/*font-weight: bold;*/
+	text-shadow: #9C9C9C 2px 2px 5px;
+}
+img.arrow{
+	display:inline;
+	padding-top: 20px;
+}
+img.hireMilesButton{
+	display:inline;
+	margin-bottom: 30px;
+}
+img.hireMilesButton:hover{
+	height:200px;
+	width: 200px;
+}
+img.miles{
+	display: block;
+	float:left;
+	height:300px;
+	border-radius: 90px;
+}
+
+img.contactIcon{
+	height:48px;
+	width: 48px;
+}
+
+img.hireMilesButtonBottom{
+	display:block;
+	margin:auto;
+	margin-top: 80px;
+}
+
+a.section{
+	display: block;
+	margin-top: 5em;
+}
+
+span.amp{
+	font-family: "BookAntiquaBoldItalic";
+}
+
+span.byLine{
+	margin-left: 3em;
+	font-size: 20px;
+	font-style: italic;
+	font-family: 'PTSansRegular', sans-serif;
+	color:#DBDBAD;
+}
+
+a.section.skillsEducation h2.sectionTitle{
+	margin-top: 300px;
+}
+
+/**********************************
+ * Section
+ **********************************/
+h2.sectionTitle{
+	text-align: center;
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: 52px;
+	text-shadow: #1A1919 3px 3px 0px;
+	color: #E8D44F;
+}
+p{
+	font-family: 'PTSansRegular', sans-serif;
+	font-size: 24px;
+	margin:auto;
+	margin-bottom: 60px;
+	color:#DBDBAD;
+}
+a#tools{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) 0 0;
+	margin-bottom: 35px;
+}
+a#books{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) -1000px 0;
+	margin-bottom: 35px;
+}
+a#fbplay{
+	display: block;
+	margin: auto;
+	width:65px;
+	height:64px;
+	background: url(/images/sprite-icons.png) -2000px 0;
+	margin-bottom: 35px;
+}
+h3{
+	font-family: "BookAntiquaBold", sans-serif;
+	margin-top: 60px;
+	margin-bottom: 0px;
+	color: #E8D44F;
+	font-size: 30px;
+}
+h4{
+	font-family: "BookAntiquaBoldItalic", sans-serif;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	color: #E8D44F;
+	font-size: 30px;
+	text-shadow: #C9320A 3px 3px 3px;
+}
+h5{
+	color: #C9320A;
+	text-shadow: #E8D44F 0px 0px 1px;
+	font-family: "BookAntiquaItalic", sans-serif;
+	margin:2px;
+	font-size: 28px;
+}
+div.jobTitle{
+	font-family: "BookAntiquaBoldItalic", sans-serif;
+	color: #E8D44F;
+	text-shadow: #C9320A 3px 3px 3px;
+	font-size: 28px;
+}
+div.credits{
+	margin:auto;
+	text-align: center;
+}
+a.credit{
+	color:white;
+	padding:1em;
+	font-size: small;
+}
+
