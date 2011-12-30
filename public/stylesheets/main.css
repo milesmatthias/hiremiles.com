@@ -7,17 +7,17 @@ html, body{
 
 body{
     -webkit-background-size:cover;
+    -mozilla-background-size:cover;
     background-size:cover;
-    background:url(http://farm3.staticflickr.com/2110/2114167543_2ee7a0ab24_b.jpg) no-repeat;
+    background:url('/images/boulder_painting.jpg') no-repeat;
 }
 
 div.bg{
     padding:0;
     width:300px;
     height:200px;
-    margin:auto;
+    margin-left:10%;
     margin-top:50px;
-    border-radius:10px;
     opacity:0.45;
 }
 
@@ -43,7 +43,9 @@ div.footer{
     right:0;
 }
 a.footer{
-    color:#b7c8cf;
+    color:#fca23f;
     opacity:0.55;
     font-size:20px;
+    background:black;
+    border-radius:5px;
 }
