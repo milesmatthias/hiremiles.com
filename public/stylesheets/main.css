@@ -6,10 +6,11 @@ html, body{
 }
 
 body{
+    background:url('/public/images/boulder_painting.jpg') no-repeat center center fixed;
     -webkit-background-size:cover;
     -mozilla-background-size:cover;
+    -o-background-size: cover;
     background-size:cover;
-    background:url('/images/boulder_painting.jpg') no-repeat;
 }
 
 div.bg{
@@ -21,7 +22,7 @@ div.bg{
     opacity:0.45;
 }
 
-p{
+h2{
     color:#12180a;
     margin:10px;
     padding-top:50px;
